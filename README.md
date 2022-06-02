@@ -32,11 +32,11 @@ Pray for me to so that i will get the job
 <a href="https://fb.com/https://www.facebook.com/akash.zaman.18400/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash.zaman.18400/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" height="30" width="40" /></a>
   
-  <a href="https://medium.com/kawseruzzaman05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kawseruzzaman05@gmail.com" /></a>
+  <a href="https://medium.com/kawseruzzaman05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kawseruzzaman05@gmail.com" /></a>  <a href="https://wa.me/01760078629" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="[whatsapp](https://wa.me/01760078629)" /></a>  <a href="https://www.facebook.com/akash.zaman.18400/" target="blank"><img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="https://www.facebook.com/akash.zaman.18400/" /></a>
   
-  <a href="https://wa.me/01760078629" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="[whatsapp](https://wa.me/01760078629)" /></a>
   
-   <a href="https://www.facebook.com/akash.zaman.18400/" target="blank"><img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="https://www.facebook.com/akash.zaman.18400/" /></a>
+  
+   
 </p>
 </p>
 
@@ -52,7 +52,7 @@ Pray for me to so that i will get the job
 
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkasHZamaN)](https://github.com/anuraghazra/github-readme-stats)
 
