@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://i.postimg.cc/5txN1Wsg/bangit.png)
+![MERN Stack Web Developer](https://i.postimg.cc/fTDwYNNN/gitBann.png)
 
 
 <h1 align="center">Hi 👋, I'm Md. Kawser Uzzaman</h1>
