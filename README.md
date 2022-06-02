@@ -26,15 +26,14 @@ Pray for me to so that i will get the job
 
 - ⚡ Fun fact **I love to travelling.**
 
-<h3 align="left" display="flex">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p>
         <a href="https://www.linkedin.com/in/md-kawser-uzzaman-4586ba230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="https://www.facebook.com/akash.zaman.18400/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
         <a href="https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="kawseruzzaman05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://wa.me/01760078629"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-        
-    </p>
+   </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
