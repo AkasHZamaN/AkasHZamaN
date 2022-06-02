@@ -1,4 +1,4 @@
-![MERN Stack Web Developer](https://avatars.githubusercontent.com/u/96652000?v=4)
+![MERN Stack Web Developer](https://i.postimg.cc/mgBL4GDD/github-Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Md. Kawser Uzzaman</h1>
