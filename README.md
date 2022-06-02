@@ -32,7 +32,7 @@ Pray for me to so that i will get the job
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" height="30" width="40" /></a>
 <a href="https://medium.com/kawseruzzaman05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kawseruzzaman05@gmail.com" height="30" width="40" /></a>
   
-  ![image]({[BadgeURLHere](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)})
+  <img src="{[BadgeURLHere](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)}"
   
 </p>
 
