@@ -1,6 +1,6 @@
 ![MERN Stack Web Developer](https://avatars.githubusercontent.com/u/96652000?v=4)
 
-### Hi there 👋, Akash Zaman
+### Hi there 👋, Md. Kawser Uzzaman Akash
 #### MERN Stack Web Developer
 
 Assalamu alaikum, I'm Kawser Uzzaman Akash. I live in Sylhet. I complete my graduation on Computer Science & Engineering at Leading University, Sylhet. Now, I'm Prepare to work for any software agency.
