@@ -1,5 +1,5 @@
 ![MERN Stack Web Developer](https://avatars.githubusercontent.com/u/96652000?v=4)
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 <h1 align="center">Hi 👋, I'm Md. Kawser Uzzaman</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
@@ -32,6 +32,8 @@ Pray for me to so that i will get the job
 <a href="https://fb.com/https://www.facebook.com/akash.zaman.18400/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash.zaman.18400/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=1fnbmc8vtwb98&utm_content=1myv59q" height="30" width="40" /></a>
 <a href="https://medium.com/kawseruzzaman05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kawseruzzaman05@gmail.com" height="30" width="40" /></a>
+  
+  <a href="https://medium.com/kawseruzzaman05@gmail.com" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/96652000?v=4" alt="kawseruzzaman05@gmail.com" height="30" width="40" /></a>
 </p>
 <img
 
