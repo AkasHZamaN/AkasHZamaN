@@ -26,7 +26,7 @@ Pray for me to so that i will get the job
 
 - ⚡ Fun fact **I love to travelling.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" display="flex">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-kawser-uzzaman-4586ba230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-kawser-uzzaman-4586ba230/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/akash.zaman.18400/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash.zaman.18400/" height="30" width="40" /></a>
