@@ -14,7 +14,7 @@ Skills: HTML / CSS / JavaScript / REACT / REACT ROUTER / EXPRESS JS / NODE JS / 
 - 🌱 I’m currently learning MERN 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about MERN Stack Web Development 
-- 📫 How to reach me: kawseruzzaman05@gmail.com 
+- 📫 How to reach me: (https://www.facebook.com/akash.zaman.18400/) 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: Playing Mobile gaming etc 
 
