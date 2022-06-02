@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Kawser Uzzaman</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
 Assalamu alaikum, I'm Kawser Uzzaman Akash. I live in Sylhet. I complete my graduation on Computer Science & Engineering at Leading University, Sylhet. Now, I'm Prepare to work for any software agency.
 
